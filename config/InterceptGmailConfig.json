@@ -1,0 +1,18 @@
+{
+    "InterceptGmail" : {
+        "constructor" : {
+            "pickle_file_name" : "",
+            "secret_file_path" : "",
+            "driver_path"      : "C:/Users/User/004.MXPR_Traackr_Downloader/src/config/chromedriver.exe",
+            "max_wait_time"    : 30
+        },
+        "intercept_gmail_settings_method" : {
+            "log_file_name"   : "./config/log_files/{}_Gmail_Interception_Log.log",
+            "download_path"   : "C:/Users/User/Downloads",
+            "repository_path" : "C:/Users/User/017.Sprinklr_Automation/src/data_repository",
+            "timezone_string" : "Asia/Seoul",
+            "mail_keywords"   : [
+            ]
+        }
+    }
+}
